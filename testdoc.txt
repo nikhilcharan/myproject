@@ -1,7 +1,6 @@
 testfile
 testing
 pull
-vi editor
-add new line 
+merge conflict issue 
 
 how to merge a branch
