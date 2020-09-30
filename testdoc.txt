@@ -1,5 +1,7 @@
 testfile
-testing 
+testing
 pull
+vi editor
+add new line 
 
-How to merge a branch
+how to merge a branch
